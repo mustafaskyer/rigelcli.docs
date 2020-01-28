@@ -5,16 +5,14 @@ and less effort
 
 -- -
 
+
+*note: make sure you have installed nodejs & git & reactNative successfully\
+note: windows users, don't run from gitbash terminal*
+
 # installaion
 
 
 <!-- tabs:start -->
-
-#### ** yarn **
-
-```
-yarn add global rigel-cli
-```
 
 
 #### ** npm **
