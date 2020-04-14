@@ -72,7 +72,7 @@ rigel add Home --connect
 rigel add Home --redux
 ```
 
-### --case=<case-type-name>
+### --case
 take the type case for redux, \
 works with reducer, actions, sagas, types, --connect, --redux options
 ```js
