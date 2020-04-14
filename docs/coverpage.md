@@ -4,7 +4,7 @@
 
 # RIGEL
 
-> A CLI FOR REACT NATIVE PROJECTS
+> You ReactNative CLI
 
 
 [GitHub](https://github.com/mustafaskyer/rigel-rn)
