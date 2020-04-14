@@ -34,7 +34,7 @@ rigel add <action-name>
 ```
 ### types
 ```js 
-rigel add <action-name>
+rigel add <types-name>
 ```
 
 ## Options
