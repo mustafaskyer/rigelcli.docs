@@ -52,8 +52,8 @@ rigel add api <file-name> --dir=<dir-name> --url=<url-name>
 ### --imc
 
 will view a list of exist components under /App/components, \
-select all components you need to import
+select all components you need to import inside the created screen
 
 ```js
-rigel add component <component-name> --imc
+rigel add screen <screen-name> --imc
 ```
