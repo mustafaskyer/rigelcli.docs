@@ -4,8 +4,7 @@
 
 # RIGEL
 
-> Your ReactNative CLI
-
+> ReactNative CLI, Code 10x faster
 
 [GitHub](https://github.com/mustafaskyer/rigel-rn)
 [Get Started](#introduction)
